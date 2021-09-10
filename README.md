@@ -1,2 +1,2 @@
 # 7 e mezzo CLI
- gioco del 7 1/2 in cli scritto in Ansi C
+ Italian 7 1/2 game written in Ansi C from Giuliobmb The game interface is in Italian language would be good if it were translated in english
